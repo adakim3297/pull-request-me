@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main(){
-    printf("mainsdsasad\n");
+    printf("Hello GBC!! :D\n");
 }
